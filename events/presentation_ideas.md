@@ -4,3 +4,4 @@
 - OOP con Python
 - Decoradores
 - Python & web development
+- Buenas prácticas en la práctica: PEP8, linting, documentación y tests. Enfocado a por qué seguir siempre buenas prácticas, beneficios, etc. Hacer una pequeña demo práctica viendo como evoluciona un código sencillo
