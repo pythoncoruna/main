@@ -3,3 +3,4 @@
 - Python & DB access
 - OOP con Python
 - Decoradores
+- Python & web development
