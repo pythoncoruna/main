@@ -1,0 +1,5 @@
+- Python 101
+- Python & Docker
+- Python & DB access
+- OOP con Python
+- Decoradores
