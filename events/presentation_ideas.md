@@ -1,10 +1,13 @@
 - Python 101
-- Python & Docker
+- Python & Docker => Asignado a Guz & Mateo
 - Python & DB access
 - OOP con Python
 - Decoradores
 - Python & web development
 - "Buenas prácticas en la práctica": PEP8, linting, documentación y tests. Enfocado a por qué seguir siempre buenas prácticas, beneficios, etc. Hacer una pequeña demo práctica viendo como evoluciona un código sencillo
+- - Clean code w/ Python (relacionado al anterior)
 - Iteradores y Generadores en Python
 - Micropython y Python para calculadoras
-- Computación cuántica con Python
+- Computación cuántica con Python => Asignado a Eduardo Mosqueira
+- Automatización de Wordpress con Python => Asignado a Pablo
+ 
