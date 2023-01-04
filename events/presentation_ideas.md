@@ -1,6 +1,5 @@
+Pendientes:
 - Python 101
-- Python & Docker => Asignado a Guz & Mateo
-- Python & DB access
 - OOP con Python
 - Decoradores
 - Python & web development
@@ -8,6 +7,9 @@
 - - Clean code w/ Python (relacionado al anterior)
 - Iteradores y Generadores en Python
 - Micropython y Python para calculadoras
+
+Ya asignadas:
 - Computación cuántica con Python => Asignado a Eduardo Mosqueira
 - Automatización de Wordpress con Python => Asignado a Pablo
- 
+- Python & Docker => Asignado a Guz & Mateo 
+- Python & DB access => Asignado a Erie
