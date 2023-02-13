@@ -32,4 +32,4 @@
 
 ## Febrero 2023
 - Python & DB access &rarr; Erie
-- Decoradores &rarr; Asignada a el_pt
+- Decoradores &rarr; el_pt
