@@ -22,7 +22,7 @@
 # Asignadas
 - Python & Docker &rarr; Guz & Mateo
 - FastAPI &rarr; Roberto (Abril 2023)
-- Dataclass &rarr; Pedro
+- Dataclass &rarr; Pedro (Abril 2023)
 
 
 # Presentadas
