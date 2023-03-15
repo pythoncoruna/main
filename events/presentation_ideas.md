@@ -20,9 +20,10 @@
 - Machine Learning / IA
 
 # Asignadas
-- Computación cuántica con Python &rarr; Asignada a Eduardo Mosqueira (Marzo 2023)
-- Python & Docker &rarr; Asignada a Guz & Mateo 
-- Depuradores &rarr; Asignada a Diego @telegradi (Marzo 2023)
+- Python & Docker &rarr; Guz & Mateo
+- FastAPI &rarr; Roberto (Abril 2023)
+- Dataclass &rarr; Pedro
+
 
 # Presentadas
 
@@ -32,4 +33,8 @@
 
 ## Febrero 2023
 - Python & DB access &rarr; Erie
-- Decoradores &rarr; el_pt
+- Decoradores &rarr; Pedro
+
+## Marzo 2023
+- Depuradores &rarr; Diego
+- Computación cuántica con Python &rarr; Eduardo Mosqueira
